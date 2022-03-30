@@ -10,8 +10,8 @@ This repository is dedicated to the basics of using GitHub in conjunction with R
 1. [Lesson 1  -  Forking a project]()
 2. [Lesson 2  -  Cloning a project]()
 3. [Lesson 3  -  Making commits]()
-    1. [Lesson 3a - Reverting a commit]()
-    2. [Lesson 3b - Amending a commit]()
+    1. [Lesson 3a - Amending a commit]()
+    2. [Lesson 3b - Reverting a commit]()
 4. [Lesson 4  -  Pushing a commit]()
 
 ##### Day 2:
