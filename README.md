@@ -1,7 +1,7 @@
 
 # Rust Training Track
 
-This branch is dedicated to the basics of using GitHub in conjunction with Rust!  For those with minimal experience with Rust and wanting to learn more, please consult the official [Online Rust Book](https://doc.rust-lang.org/book/).
+This repository is dedicated to the basics of using GitHub in conjunction with Rust!  For those with minimal experience with Rust and wanting to learn more, please consult the official [Online Rust Book](https://doc.rust-lang.org/book/).
 
 ## Table of Contents
 
