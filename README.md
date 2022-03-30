@@ -20,8 +20,3 @@ This repository is dedicated to the basics of using GitHub in conjunction with R
 2. [Lesson 6  -  Creating branches]()
 3. [Lesson 7  -  Making pull requests]()
 4. [Lesson 8  -  Resolving issues]()
-
-##### Day 3: 
-
-1. [Lesson 9  -  Amending commits]()
-2. [Lesson 10 - Resetting commits]()
